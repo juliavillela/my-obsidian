@@ -2,4 +2,4 @@
 
 Vault do Obsidian conectado a projeto do github.
 
-[conexão](conexão com o gitHub)
+[conexão](meta/conexão com o gitHub.md)
